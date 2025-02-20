@@ -10,7 +10,7 @@ body {
     background-position: center;
     image-rendering: auto;
     margin-top: 0;
-    padding-top: 0;
+    padding-top: 80px;
 }
 .high-quality {
     image-rendering: high-quality;
@@ -44,6 +44,7 @@ header {
     justify-content: center;
     padding: 50px;
     max-width: 90%;
+    margin-top: 100px;
 }
 .card {
     width: 250px;
