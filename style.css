@@ -31,11 +31,15 @@ header {
     right: 0;
     z-index: 1000;
 }
+.logo {
+    color: white;
+}
 .heading {
     text-align: center;
     font-size: 2rem;
     color: white;
     margin-bottom: 20px;
+    gap: 10px;
 }
 .container {
     display: flex;
