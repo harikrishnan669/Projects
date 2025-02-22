@@ -33,7 +33,7 @@ header {
 }
 .heading {
     text-align: center;
-    font-size: 3rem;
+    font-size: 2rem;
     color: white;
     margin-bottom: 20px;
 }
@@ -85,6 +85,11 @@ header {
     left: 50%;
     filter: blur(0);
 }
+.card-footer {
+    display: flex;
+    justify-content: center;
+}
+
 .text {
     flex-grow: 1;
     padding: 10px;
@@ -104,22 +109,26 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    border-radius: 0 0 15px 15px;
-    background: rgba(255, 255, 255, 0.1);
+    width: 90%;
+    border-radius: 10px 10px 10px 10px;
+    background: white;
     padding: 10px;
     gap: 15px;
+    flex-wrap: wrap;
+    position: relative;
 }
+
 .btn {
     border: none;
     width: 50px;
     height: 35px;
-    background-color: rgba(247, 234, 234, 0.5);
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Adds hover effects */
 }
 .svg-icon {
     width: 20px;
@@ -127,7 +136,7 @@ header {
     stroke: black;
 }
 .btn:hover {
-    background-color: white;
+    background-color: gray;
 }
 @media (max-width: 768px) {
     .heading {
