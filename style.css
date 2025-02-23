@@ -105,11 +105,11 @@ header {
     word-wrap: break-word;
 }
 .subtitle {
-    font-size: 0.9em;
+    font-size: 0.7em;
     font-weight: 300;
     color: rgba(240, 248, 255, 0.7);
 }
-.icons {
+.iconsconatiner {
     display: flex;
     justify-content: center;
     align-items: center;
