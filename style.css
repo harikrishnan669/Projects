@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbcWJtcegDCkEDN2ftEb0_elQNxhSZWBA6A&s');
+    background-image:url(images/background.png);
     background-size: cover;
     background-position: center;
     image-rendering: auto;
