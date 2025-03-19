@@ -269,7 +269,21 @@ header {
     height: 20px;
     stroke: white;
 }
+footer {
+    background: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
 
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
 /* Responsive Design */
 @media (max-width: 768px) {
     .heading {
@@ -303,7 +317,9 @@ header {
     .subtitle {
         font-size: 0.8em;
     }
-
+    footer {
+        padding: 1rem 10px;
+    }
     .iconsconatiner {
         gap: 10px;
     }
