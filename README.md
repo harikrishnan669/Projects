@@ -1,7 +1,21 @@
-## Projects Website
-Made a project website to show the projects done till now.
+# 🚀 Project Showcase Website  
 
-## Projects deployed link: [Project](https://projects-hari2k4.vercel.app/)
+A sleek and responsive portfolio website to showcase my projects, built with **HTML, CSS, and JavaScript**.  
+
+## 🔥 Features  
+- Clean & modern UI  
+- Responsive design  
+- Smooth animations  
+
+## 📂 Tech Stack  
+- HTML, CSS, JavaScript  
+
+## 🎯 Live Demo  
+
+[Project](https://projects-hari2k4.vercel.app/)
+
+## 📬 Contact  
+📧 Email: rharkrishnan2020@gmail.com
 
 | Desktop | Mobile |
 |--|--|
